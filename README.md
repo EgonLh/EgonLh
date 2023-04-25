@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### This is Egon
+>A computer science enthusiast currently pursuing on degree in Computer Science
+
+- 🔭 I’m currently working on my degree.
 <!--
 **EgonLothbrok/EgonLothbrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
