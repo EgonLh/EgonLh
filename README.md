@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### This is Egon
->A computer science enthusiast currently pursuing on degree in Computer Science
+>A computer science enthusiast currently pursuing a degree in Computer Science
 
 - 🔭 I’m currently working on my degree.
 <!--
