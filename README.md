@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-#### This is Egon
+#### This is Egon aka Zay Yar Htun
 > A passionate computer science enthusiast pursuing a degree in the field, deeply committed to developing innovative software products and advancing machine learning systems and AI technologies.
 
 - 🔭 I’m currently working on my degree.
+- 📚 Passionate about learning  
+- 🤝 Enjoy collaborating with others  
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgonLh&theme=tokyonight&layout=compact&langs_count=8&hide=css,html" width="100%"/>
-</p>
 
