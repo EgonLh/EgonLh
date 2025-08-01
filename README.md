@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on my degree.
 
-Techs 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgonLh&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgonLh&theme=tokyonight&layout=compact&langs_count=8&hide=css,html" width="100%"/>
+</p>
 
